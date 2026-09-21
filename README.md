@@ -11,19 +11,19 @@ From October 2026 to March 2027, I will be studying at Hamburg University of Tec
 ### 🔑 Mini Key-Value Store
 Dockerized REST API built with **Python, FastAPI and PostgreSQL**, with automated tests using pytest and continuous integration through GitHub Actions.
 
-→ [View repository]((https://github.com/Clementcvy/mini-kv-store))
+→ [View repository](https://github.com/Clementcvy/mini-kv-store)
 
 ### 🎲 Harmonies
 Desktop implementation of the board game Harmonies developed in **C++ and Qt** as a team software project.
 
 Focus areas include object-oriented design, game logic and separation between application logic and GUI components.
 
-→ [View repository]((https://github.com/Clementcvy/harmonies))
+→ [View repository](https://github.com/Clementcvy/harmonies)
 
 ### 🗄️ Crowdfunding Database System
 Database design project covering both **relational and NoSQL approaches** for a crowdfunding platform with users, projects, contributions, payments and business constraints.
 
-→ [View repository]((https://github.com/Clementcvy/crowdfundr))
+→ [View repository](https://github.com/Clementcvy/crowdfundr)
 
 ## Technologies
 
